@@ -14,4 +14,4 @@ Example of use
  	});
 ```
 
-<a href="http://jsfiddle.net/FastEngine/d3k8aepv/1/" target="_blank">demo page</a>
+<a href="http://jsfiddle.net/FastEngine/d3k8aepv/2/" target="_blank">demo page</a>
