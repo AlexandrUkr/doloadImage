@@ -1,7 +1,7 @@
 var doloadImage = {
 	check: function() {  
 		$('[data-src]').each(function(e){
-			if(LoadImage.is_view($(this)))
+			if(doloadImage.is_view($(this)))
 				$(this).attr('src', $(this).attr('data-src')).removeAttr('data-src').hide().fadeIn("slow");
 		});  
 	},
